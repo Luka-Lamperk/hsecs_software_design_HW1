@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VyshKat.Tests/VyshKat.Tests.csproj" />
+  <Project Path="VyshKat/VyshKat.csproj" />
+</Solution>
